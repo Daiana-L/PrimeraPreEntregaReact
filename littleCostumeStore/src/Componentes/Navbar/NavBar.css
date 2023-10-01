@@ -14,7 +14,7 @@ nav{
 
 
 li{
-    font-size: 20px;
+    font-size: 15px;
     color: rgb(25, 212, 212);
     display: inline-block;
     margin: 20px;
@@ -22,6 +22,7 @@ li{
 }
 
 .imgLogo{
-    width: 150px;
-    margin-left: 30px;
+    height: 120px;
+    width: 200px;
+    margin-left: 50px;
 }

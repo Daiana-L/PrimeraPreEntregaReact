@@ -1,3 +1,8 @@
 .imgCart{
 width: 50px;
 }
+
+strong{
+    color: rgba(110, 68, 177, 0.76);
+    margin-right: 20px;
+}
