@@ -1,9 +1,10 @@
 import './NavBar.css' ;
+import logo from '../img/logo.jpg';
 import CartWidget from '../CartWidget/CartWidget';
 const Navbar = () => {
 return (
     <header>
-        <h1>LittleCostume</h1>
+        <img className='imgLogo' src={logo} alt="logo" />
         <nav>
             <ul>
                 <li>Stock</li>

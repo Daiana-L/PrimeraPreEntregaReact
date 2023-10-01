@@ -3,12 +3,7 @@ header{
     align-items: center ;
     justify-content:space-between;
     border-bottom: 1px solid rgba(112, 16, 175, 0.795);
-    background-color: rgba(221, 191, 250, 0.445);
-}
-
-h1{
-    color: rgba(209, 64, 228, 0.781);
-    margin-left: 20px;
+    background-color: #fcb7df9d;
 }
 
 nav{
@@ -24,4 +19,9 @@ li{
     display: inline-block;
     margin: 20px;
     cursor: pointer;
+}
+
+.imgLogo{
+    width: 150px;
+    margin-left: 30px;
 }
